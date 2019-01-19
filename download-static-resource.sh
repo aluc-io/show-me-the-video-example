@@ -64,3 +64,4 @@ echo Download $IMAGE_DOWNLOAD_URL
 time curl --location --silent --show-error --output $TARGET_DIR/example-video-08.mp4 $VIDEO_DOWNLOAD_URL
 time curl --location --silent --show-error --output $TARGET_DIR/example-image-08.webp $IMAGE_DOWNLOAD_URL
 
+ls -al $TARGET_DIR
