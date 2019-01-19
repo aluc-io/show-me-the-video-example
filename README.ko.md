@@ -17,6 +17,8 @@ $ docker build smtv-example-static:v1 .
 $ docker run -d -p8082:80 aluc-io/show-me-the-video-example:v1
 ```
 
+- test this image url: http://127.0.0.1:8082/example-image-01.webp
+
 ## Tip1. 비디오 파일 첫 프레임을 이미지로 저장
 
 ```sh
