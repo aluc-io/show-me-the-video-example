@@ -16,7 +16,7 @@ $ docker build smtv-example-static:v1 .
 ## Run nginx that serve example vidoes, images
 
 ```sh
-$ docker run -d -p8082:80 aluc-io/show-me-the-video-example
+$ docker run -d -p8082:80 alucio/show-me-the-video-example
 ```
 
 - test this image url: http://127.0.0.1:8082/example-video-01.webp
@@ -33,5 +33,5 @@ $ docker run --rm -v $PWD:/root -w /root jrottenberg/ffmpeg -i vidoe.mp4 -ss 00:
 $ docker run --rm -v $PWD:/workdir --workdir /workdir jujhars13/docker-imagemagick mogrify -resize 64x -quality 100 -path resized.64 original/*.png
 ```
 
-[smtv]: https://github.com/aluc-io/show-me-the-video
+[smtv]: https://github.com/alucio/show-me-the-video
 
