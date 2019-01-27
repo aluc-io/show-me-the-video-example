@@ -1,8 +1,13 @@
 # show-me-the-video-example
 Example git repository using [show-me-the-video][smtv].
 
-![Docker Automated](https://img.shields.io/docker/automated/alucio/show-me-the-video-example.svg)
-![Docker Build](https://img.shields.io/docker/build/alucio/show-me-the-video-example.svg)
+<!--
+[![Docker Automated](https://img.shields.io/docker/automated/alucio/show-me-the-video-example.svg)][dockerurl]
+[![Docker Build](https://img.shields.io/docker/build/alucio/show-me-the-video-example.svg)][dockerurl]
+-->
+[![Docker Pulls](https://img.shields.io/docker/pulls/alucio/show-me-the-video-example.svg?style=flat-square)][dockerurl]
+[![Docker Layers](https://shields.beevelop.com/docker/image/layers/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
+[![Docker Size](https://shields.beevelop.com/docker/image/image-size/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
 
 - 한글가이드: [README.ko.md](./README.ko.md)
 
@@ -34,4 +39,4 @@ $ docker run --rm -v $PWD:/workdir --workdir /workdir jujhars13/docker-imagemagi
 ```
 
 [smtv]: https://github.com/alucio/show-me-the-video
-
+[dockerurl]: https://cloud.docker.com/u/alucio/repository/docker/alucio/show-me-the-video-example
