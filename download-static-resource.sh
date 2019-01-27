@@ -17,8 +17,8 @@ time curl --location --silent --show-error --output $TARGET_DIR/example-video-02
 time curl --location --silent --show-error --output $TARGET_DIR/example-image-02.webp $IMAGE_DOWNLOAD_URL
 
 # https://videos.pexels.com/videos/people-studying-the-water-1430660
-VIDEO_DOWNLOAD_URL="https://i.vimeocdn.com/video/726347561.webp?mw=900&mh=507"
-IMAGE_DOWNLOAD_URL="https://player.vimeo.com/external/290465816.hd.mp4?s=87080a2b8d0ef03962166cf7c60ec7cd738b563c&profile_id=174&oauth2_token_id=57447761&download=1"
+VIDEO_DOWNLOAD_URL="https://player.vimeo.com/external/290465816.hd.mp4?s=87080a2b8d0ef03962166cf7c60ec7cd738b563c&profile_id=174&oauth2_token_id=57447761&download=1"
+IMAGE_DOWNLOAD_URL="https://i.vimeocdn.com/video/726347561.webp?mw=900&mh=507"
 echo Download $VIDEO_DOWNLOAD_URL
 echo Download $IMAGE_DOWNLOAD_URL
 time curl --location --silent --show-error --output $TARGET_DIR/example-video-03.mp4 $VIDEO_DOWNLOAD_URL
