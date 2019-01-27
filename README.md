@@ -1,5 +1,4 @@
 # show-me-the-video-example
-Example git repository using [show-me-the-video][smtv].
 
 <!--
 [![Docker Automated](https://img.shields.io/docker/automated/alucio/show-me-the-video-example.svg)][dockerurl]
@@ -9,6 +8,7 @@ Example git repository using [show-me-the-video][smtv].
 [![Docker Layers](https://shields.beevelop.com/docker/image/layers/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
 [![Docker Size](https://shields.beevelop.com/docker/image/image-size/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
 
+- Example git repository using [show-me-the-video][smtv]
 - 한글가이드: [README.ko.md](./README.ko.md)
 
 ## Build example Docker image contains video, image

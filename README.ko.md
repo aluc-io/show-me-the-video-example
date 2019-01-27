@@ -1,8 +1,10 @@
 # show-me-the-video-example
-[show-me-the-video][smtv] 를 사용하는 git 저장소 예제.
 
-![Docker Automated](https://img.shields.io/docker/automated/alucio/show-me-the-video-example.svg)
-![Docker Build](https://img.shields.io/docker/build/alucio/show-me-the-video-example.svg)
+[![Docker Pulls](https://img.shields.io/docker/pulls/alucio/show-me-the-video-example.svg?style=flat-square)][dockerurl]
+[![Docker Layers](https://shields.beevelop.com/docker/image/layers/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
+[![Docker Size](https://shields.beevelop.com/docker/image/image-size/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
+
+- [show-me-the-video][smtv] 를 사용하는 git 저장소 예제
 
 ## 예제 비디오, 이미지 Docker image build
 video 와 image 는 `download-static-resource.sh` 스크립트를 통해 다운로드 함.
@@ -32,4 +34,4 @@ $ docker run --rm -v $PWD:/workdir --workdir /workdir jujhars13/docker-imagemagi
 ```
 
 [smtv]: https://github.com/aluc-io/show-me-the-video
-
+[dockerurl]: https://cloud.docker.com/u/alucio/repository/docker/alucio/show-me-the-video-example
