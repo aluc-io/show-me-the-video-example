@@ -5,6 +5,7 @@
 [duration]: 01:58
 [prev]: ./04-intellij-editorconfig.md
 [next]: ./06-intellij-hot-swap.md
+[createTime]: Jun-12-2018-16:43:00-GMT+0900
 
 # JAVA 코드를 클린하게 해주는 lombok
 

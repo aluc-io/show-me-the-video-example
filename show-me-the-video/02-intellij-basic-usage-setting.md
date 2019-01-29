@@ -5,6 +5,8 @@
 [duration]: 02:34
 [prev]: ./01-intellij-intro-install.md
 [next]: ./03-intellij-springboot-springboot.md
+[createTime]: Jan-31-2015-12:23:00-GMT+0900
+[updateTime]: Feb-2-2019-12:23:00-GMT+0900
 
 # IntelliJ IDEA 기본 셋팅 및 사용법
 

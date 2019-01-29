@@ -5,6 +5,8 @@
 [duration]: 00:58
 [prev]: ./02-intellij-basic-usage-setting.md
 [next]: ./04-intellij-editorconfig.md
+[createTime]: Jun-12-2016-16:23:00-GMT+0900
+[updateTime]: null
 
 # IntelliJ IDEA 에서 스프링부트 시작하기
 

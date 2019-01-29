@@ -5,6 +5,7 @@
 [duration]: 00:58
 [prev]: ./03-intellij-springboot-start.md
 [next]: ./05-intellij-lombok.md
+[createTime]: Jul-12-2016-18:23:00-GMT+0900
 
 # editorconfig 사용으로 코드 파일 컨벤션 정의
 

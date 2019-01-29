@@ -5,6 +5,8 @@
 [duration]: 00:58
 [prev]: null
 [next]: ./02-intellij-basic-usage.md
+[createTime]: Jan-30-2014-12:02:00-GMT+0900
+[updateTime]: null
 
 # IntelliJ IDEA 설치하기
 
