@@ -5,7 +5,7 @@
 [duration]: 01:58
 [prev]: ./05-intellij-lombok.md
 [next]: ./07-intellij-hot-replacement-static-resource.md
-[createTime]: Dev-31-2018-12:23:00-GMT+0900
+[createTime]: Dec-31-2018-12:23:00-GMT+0900
 
 # 프로세스 구동 중 JAVA Class file hot-swap
 
