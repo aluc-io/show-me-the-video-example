@@ -7,8 +7,9 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/alucio/show-me-the-video-example.svg?style=flat-square)][dockerurl]
 [![Docker Layers](https://shields.beevelop.com/docker/image/layers/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
 [![Docker Size](https://shields.beevelop.com/docker/image/image-size/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
+[![Heroku deploy](https://heroku-badge.herokuapp.com/?app=show-me-the-video-example&style=flat&svg=1)][heroku]
 
-- Example git repository using [show-me-the-video][smtv]
+- Example **backend git repository** of [show-me-the-video][smtv]
 - 한글가이드: [README.ko.md](./README.ko.md)
 
 ## Build example Docker image contains video, image
@@ -18,13 +19,21 @@
 $ docker build smtv-example-static:v1 .
 ```
 
-## Run nginx that serve example vidoes, images
+## Run nginx to serve example vidoes, images on local
 
 ```sh
-$ docker run -d -p8082:80 alucio/show-me-the-video-example
+$ docker run -d -p8082:80 --env PORT=80 alucio/show-me-the-video-example
 ```
 
 - test this image url: http://127.0.0.1:8082/example-image-01.webp
+
+## Release using Heroku
+
+```sh
+$ git commit -m msg
+$ git tag <tag>
+$ yarn run release
+```
 
 ## Tip1. Generate thumbnail image from first frame
 
@@ -40,3 +49,5 @@ $ docker run --rm -v $PWD:/workdir --workdir /workdir jujhars13/docker-imagemagi
 
 [smtv]: https://github.com/alucio/show-me-the-video
 [dockerurl]: https://cloud.docker.com/u/alucio/repository/docker/alucio/show-me-the-video-example
+[heroku]: https://show-me-the-video-example.herokuapp.com/
+

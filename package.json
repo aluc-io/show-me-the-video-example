@@ -1,0 +1,10 @@
+{
+  "name": "show-me-the-video-example",
+  "main": "index.js",
+  "scripts": {
+    "release": "./release.sh"
+  },
+  "repository": "git@github.com:aluc-io/show-me-the-video-example.git",
+  "author": "Alfred UC <b6pzeusbc54tvhw5jgpyw8pwz2x6gs@gmail.com>",
+  "license": "MIT"
+}
