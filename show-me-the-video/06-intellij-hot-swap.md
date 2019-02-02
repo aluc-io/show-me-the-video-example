@@ -1,5 +1,5 @@
-[videoUrl]: http://127.0.0.1:8082/example-video-06.mp4
-[thumbnailUrl]: http://127.0.0.1:8082/example-image-06.webp
+[videoUrl]: https://show-me-the-video-example.herokuapp.com/example-video-06.mp4
+[thumbnailUrl]: https://show-me-the-video-example.herokuapp.com/example-image-06.webp
 [tags]: idea,java,dx
 [author]: me@aluc.io
 [duration]: 01:58

@@ -1,5 +1,5 @@
-[videoUrl]: http://127.0.0.1:8082/example-video-01.mp4
-[thumbnailUrl]: http://127.0.0.1:8082/example-image-01.webp
+[videoUrl]: https://show-me-the-video-example.herokuapp.com/example-video-01.mp4
+[thumbnailUrl]: https://show-me-the-video-example.herokuapp.com/example-image-01.webp
 [tags]: idea
 [author]: me@aluc.io
 [duration]: 00:58
