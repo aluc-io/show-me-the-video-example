@@ -1,5 +1,5 @@
 [videoUrl]: https://show-me-the-video-example.herokuapp.com/example-video-02.mp4
-[thumbnailUrl]: https://show-me-the-video-example.herokuapp.com/example-image-02.webp
+[thumbnailUrl]: https://show-me-the-video-example.herokuapp.com/example-image-02.png
 [tags]: idea
 [author]: me@aluc.io
 [duration]: 02:34

@@ -25,7 +25,7 @@ $ docker build smtv-example-static:v1 .
 $ docker run -d -p8082:80 --env PORT=80 alucio/show-me-the-video-example
 ```
 
-- test this image url: http://127.0.0.1:8082/example-image-01.webp
+- test this image url: http://127.0.0.1:8082/example-image-01.png
 
 ## Release using Heroku
 

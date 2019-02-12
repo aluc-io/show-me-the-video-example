@@ -1,5 +1,5 @@
 [videoUrl]: https://show-me-the-video-example.herokuapp.com/example-video-03.mp4
-[thumbnailUrl]: https://show-me-the-video-example.herokuapp.com/example-image-03.webp
+[thumbnailUrl]: https://show-me-the-video-example.herokuapp.com/example-image-03.png
 [tags]: idea,springboot
 [author]: me@aluc.io
 [duration]: 00:58

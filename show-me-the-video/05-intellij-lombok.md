@@ -1,5 +1,5 @@
 [videoUrl]: https://show-me-the-video-example.herokuapp.com/example-video-05.mp4
-[thumbnailUrl]: https://show-me-the-video-example.herokuapp.com/example-image-05.webp
+[thumbnailUrl]: https://show-me-the-video-example.herokuapp.com/example-image-05.png
 [tags]: idea,java,lombok
 [author]: me@aluc.io
 [duration]: 01:58
