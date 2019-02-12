@@ -1,8 +1,8 @@
 # show-me-the-video-example
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/alucio/show-me-the-video-example.svg?style=flat-square)][dockerurl]
-[![Docker Layers](https://shields.beevelop.com/docker/image/layers/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
-[![Docker Size](https://shields.beevelop.com/docker/image/image-size/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
+[![Docker Layers](https://img.shields.io/microbadger/layers/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
+[![Docker Size](https://img.shields.io/microbadger/image-size/alucio/show-me-the-video-example/latest.svg?style=flat-square)][dockerurl]
 [![Heroku deploy](https://heroku-badge.herokuapp.com/?app=show-me-the-video-example&style=flat&svg=1)][heroku]
 
 - [show-me-the-video][smtv] 의 백엔드 git 저장소 예제
@@ -43,6 +43,6 @@ $ docker run --rm -v $PWD:/workdir --workdir /workdir jujhars13/docker-imagemagi
 ```
 
 [smtv]: https://github.com/aluc-io/show-me-the-video
-[dockerurl]: https://cloud.docker.com/u/alucio/repository/docker/alucio/show-me-the-video-example
+[dockerurl]: https://hub.docker.com/r/alucio/show-me-the-video-example
 [heroku]: https://show-me-the-video-example.herokuapp.com/
 
